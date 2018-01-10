@@ -2,14 +2,16 @@
     "workorder": [
         {
             "id": "342254522839",
+            "batchID": "4539d5a0-bb58-11e5-9911-b8ca3ad7f05a",
+            "imqsID": "a82498aa-bb58-11e5-9911-b8ca3ad7f05d",
             "workOrderType": "PM02",
             "activityType": "SPMJET",
-            "batchDescription": "dfg",
-            "itemIdentifier": "850771E1-9074-11E6-9875-2016D89EEE16",
-            "length": 128.55887,
-            "linkType": "Mid-Block",
-            "depotCode": "KLIN",
-            "suburb": "Rosebank"
+            "description": "Suspected root encroachment",
+            "depotCode": "RANN",
+            "itemIdentifier": "a92793c5-9fc9-11e5-832f-0c8bfdba7899",
+            "length": 75.21,
+            "pipeType": "Mid-Block",
+            "suburb": "Lenasia"
         }
     ]
 }
