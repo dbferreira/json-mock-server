@@ -1,0 +1,15 @@
+{
+    "workorder": [
+        {
+            "id": "342254522839",
+            "workOrderType": "PM02",
+            "activityType": "SPMJET",
+            "batchDescription": "dfg",
+            "itemIdentifier": "850771E1-9074-11E6-9875-2016D89EEE16",
+            "length": 128.55887,
+            "linkType": "Mid-Block",
+            "depotCode": "KLIN",
+            "suburb": "Rosebank"
+        }
+    ]
+}
